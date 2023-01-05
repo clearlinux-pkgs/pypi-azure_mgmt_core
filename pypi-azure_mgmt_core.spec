@@ -4,7 +4,7 @@
 #
 Name     : pypi-azure_mgmt_core
 Version  : 1.3.2
-Release  : 16
+Release  : 17
 URL      : https://files.pythonhosted.org/packages/ae/18/6f79cfddbf08f233de5a51961323c0b1b2174e06ae9460988091fd012043/azure-mgmt-core-1.3.2.zip
 Source0  : https://files.pythonhosted.org/packages/ae/18/6f79cfddbf08f233de5a51961323c0b1b2174e06ae9460988091fd012043/azure-mgmt-core-1.3.2.zip
 Summary  : Microsoft Azure Management Core Library for Python
