@@ -1,5 +1,5 @@
 PKG_NAME := pypi-azure_mgmt_core
-URL = https://files.pythonhosted.org/packages/48/9a/9bdc35295a16fe9139a1f99c13d9915563cbc4f30b479efaa40f8694eaf7/azure_mgmt_core-1.5.0.tar.gz
+URL = https://files.pythonhosted.org/packages/3e/99/fa9e7551313d8c7099c89ebf3b03cd31beb12e1b498d575aa19bb59a5d04/azure_mgmt_core-1.6.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
